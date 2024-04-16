@@ -1,0 +1,21 @@
+{
+  "name": "cmd-with-electron",
+  "version": "3.1.0.0",
+  "description": "This a cmd create with electron js",
+  "main": "main.js",
+  "scripts": {
+    "start":"electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cmd electron js", "cmd"],
+  "author": "@ananasloll",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.1.6"
+  },
+  "build": {
+    "win": {
+      "rc": "manifest.rc"
+    }
+  }
+}

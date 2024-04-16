@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(17, 17, 17);
+    color: aliceblue;
+}
+
+.cmdMain{
+    border: 2px solid aliceblue;
+}
+
+.inputCommandMain{
+    background-color: rgb(17, 17, 17);
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    border-color: rgb(17, 17, 17);
+    width: 700px;
+    cursor: text;
+}
+
+#commandSpan{
+    background-color: rgb(17, 17, 17);
+    color: aliceblue;
+    border: none;
+    border-radius: 5px;
+    border-color: rgb(17, 17, 17);
+}
+
+#cmd{
+    display: block;
+}
