@@ -1,6 +1,11 @@
 # Cmd-with-electronjs
 Command Prompt crée avec electron js et la technologie web.<br><br>
 
+Dependance : 
+1. Node Js<br>
+2. MinGw<br>
+<br>
+<br>
 Install :
 <br>
 <br>
